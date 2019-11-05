@@ -5,9 +5,9 @@
 
 Blurb.
 
-<P>Video: URL To Come
-<P>Instructions: To Come
-<P>Parts List: To Come
+<P>Video: https://youtu.be/U7zEw9Pv_hg
+<P>Instructions: Coming Soon.
+<P>Parts List: https://github.com/rykfield/REF08-Lost-On-Lombard/raw/master/REF08%20-%20Lost%20On%20Lombard.xml
 
 <P><a href="https://github.com/rykfield/REF00-Module-Overview"><B>All available modules and instructions</b></a>
 
