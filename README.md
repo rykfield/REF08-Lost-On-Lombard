@@ -3,7 +3,7 @@
 <img width="540" height="640" src="https://github.com/rykfield/REF08-Lost-On-Lombard/raw/master/Lost%20On%20Lombard%20Banner.jpg">
 <BR>
 
-Blurb.
+This GBC is inspired by the San Francisco Architecture set.  The movement of balls mimics traffic on Lombard Street, only they are going the wrong way.  They are "Lost" on Lombard.
 
 <P>Video: https://youtu.be/U7zEw9Pv_hg
 <P>Instructions: Coming Soon.
