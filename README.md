@@ -1,6 +1,6 @@
 <a name="README"></a>
 # REF08-Lost-On-Lombard
-<img width="640" height="540" src="https://github.com/rykfield/REF08-Lost-On-Lombard/raw/master/Lost%20On%20Lombard%20Banner.jpg">
+<img width="540" height="640" src="https://github.com/rykfield/REF08-Lost-On-Lombard/raw/master/Lost%20On%20Lombard%20Banner.jpg">
 <BR>
 
 Blurb.
