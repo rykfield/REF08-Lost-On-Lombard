@@ -6,7 +6,7 @@
 This GBC is inspired by the San Francisco Architecture set.  The movement of balls mimics traffic on Lombard Street, only they are going the wrong way.  They are "Lost" on Lombard.
 
 <P>Video: https://youtu.be/U7zEw9Pv_hg
-<P>Instructions: Coming Soon.
+<P>Instructions: https://github.com/rykfield/REF08-Lost-On-Lombard/raw/master/REF08%20-%20Lost%20On%20Lombard.pdf
 <P>Parts List: https://github.com/rykfield/REF08-Lost-On-Lombard/raw/master/REF08%20-%20Lost%20On%20Lombard.xml
 
 <P><a href="https://github.com/rykfield/REF00-Module-Overview"><B>All available modules and instructions</b></a>
